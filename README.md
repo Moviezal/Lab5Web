@@ -122,6 +122,9 @@ if (hasilTambah > 100) {
 ### Hasil:
 
 >  <img src="sskondisi.jpeg" alt="List Image">
+>  <img src="sskondisi1.jpeg" alt="List Image">
+>  <img src="sskondisi2.jpeg" alt="List Image">
+
 
 ### Penjelasan:
 
